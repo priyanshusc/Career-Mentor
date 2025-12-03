@@ -1,0 +1,49 @@
+Logs
+logs
+.log
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules and build output (Frontend/UI: career-mentor-ui)
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables (Crucial for security)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json  # Keeps the shared VS Code extension recommendations file
+.idea
+.DS_Store
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+################################
+
+# PYTHON / DJANGO BACKEND RULES
+################################
+
+# Virtual Environment
+venv/
+
+# Bytecode files (automatically generated)
+pycache/
+*.pyc
+
+# Database and Media (Development-specific/large files)
+db.sqlite3
+*.sqlite3
+/media             # Folder for user-uploaded files (resumes, images, etc.)

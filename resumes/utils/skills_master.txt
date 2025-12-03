@@ -1,0 +1,160 @@
+python
+java
+c
+c++
+c#
+javascript
+typescript
+ruby
+php
+swift
+kotlin
+go
+r
+scala
+dart
+rust
+perl
+bash
+powershell
+objective-c
+django
+flask
+fastapi
+spring boot
+express
+laravel
+nodejs
+dotnet
+asp.net
+rails
+nestjs
+gin
+fiber
+graphql
+react
+reactjs
+nextjs
+vue
+vuejs
+nuxtjs
+angular
+svelte
+jquery
+bootstrap
+tailwind
+vite
+webpack
+material ui
+redux
+chakra ui
+aws
+azure
+google cloud
+gcp
+cloud computing
+docker
+kubernetes
+jenkins
+terraform
+ansible
+github actions
+cicd
+elastic beanstalk
+ec2
+lambda
+s3
+cloudformation
+devops
+machine learning
+deep learning
+tensorflow
+pytorch
+keras
+scikit-learn
+opencv
+computer vision
+nlp
+transformers
+huggingface
+data science
+data mining
+neural networks
+model deployment
+ai algorithms
+feature engineering
+llm
+prompt engineering
+chatbot development
+sql
+mysql
+postgresql
+mongodb
+sqlite
+redis
+nosql
+firebase
+snowflake
+bigquery
+data warehouse
+data modeling
+data analysis
+data visualization
+etl
+powerbi
+tableau
+excel
+pandas
+numpy
+hadoop
+spark
+apache airflow
+android
+ios
+react native
+flutter
+swiftui
+kotlin
+jetpack compose
+xamarin
+cordova
+ionic
+git
+github
+gitlab
+bitbucket
+jira
+postman
+swagger
+rest api
+restful services
+soap
+graphql api
+json
+xml
+ci/cd
+testing
+unit testing
+pytest
+selenium
+cypress
+jest
+ui design
+ux design
+system design
+microservices
+api development
+data structures
+algorithms
+object oriented programming
+functional programming
+debugging
+deployment
+linux
+windows server
+agile
+scrum
+kanban
+project management
+technical documentation
+team collaboration
