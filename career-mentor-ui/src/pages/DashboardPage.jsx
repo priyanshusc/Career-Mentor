@@ -73,10 +73,10 @@ export default function DashboardPage() {
     // --- UI Components ---
 
     return (
-        <div className="min-h-screen bg-slate-50 font-sans text-slate-800 pb-20">
+        <div className="min-h-screen bg-gradient-to-r from-yellow-50 to-violet-100 font-sans text-slate-800 pb-20">
             
 
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
                 
                 {/* Header */}
                 <div className="text-center mb-12">

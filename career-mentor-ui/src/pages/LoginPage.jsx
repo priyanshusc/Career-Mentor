@@ -48,8 +48,8 @@ export default function LoginPage() {
         <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
             {/* Updated card design for a premium feel */}
             <div className="w-full max-w-md px-10 pt-10 pb-7 bg-white rounded-3xl shadow-xl transition-all duration-500 hover:shadow-3xl-blue">
-                <h1 className="text-4xl font-black text-center text-gray-900 mb-8">
-                    CareerMentor
+                <h1 className="text-4xl font-black text-center text-gray-800 mb-8">
+                    AI SkillPath
                 </h1>
                 {/* <p className="text-xl font-extrabold text-center text-indigo-600 mb-8">
           Welcome Back 👋

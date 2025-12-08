@@ -47,9 +47,9 @@ export default function HomePage() {
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                         {/* Feature 1 */}
-                        <div className="p-8 rounded-2xl bg-slate-50 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
+                        <div className="p-8 rounded-2xl bg-gray-200 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
                             <div className="w-14 h-14 bg-blue-100 rounded-xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform">
-                                📄
+                                📜
                             </div>
                             <h3 className="text-xl font-bold text-slate-900 mb-3">Smart Resume Parsing</h3>
                             <p className="text-slate-600 leading-relaxed">
@@ -58,7 +58,7 @@ export default function HomePage() {
                         </div>
 
                         {/* Feature 2 */}
-                        <div className="p-8 rounded-2xl bg-slate-50 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
+                        <div className="p-8 rounded-2xl bg-gray-200 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
                             <div className="w-14 h-14 bg-indigo-100 rounded-xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform">
                                 🎯
                             </div>
@@ -69,7 +69,7 @@ export default function HomePage() {
                         </div>
 
                         {/* Feature 3 */}
-                        <div className="p-8 rounded-2xl bg-slate-50 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
+                        <div className="p-8 rounded-2xl bg-gray-200 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
                             <div className="w-14 h-14 bg-amber-100 rounded-xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform">
                                 🗺️
                             </div>
@@ -80,7 +80,7 @@ export default function HomePage() {
                         </div>
 
                         {/* Feature 4 */}
-                        <div className="p-8 rounded-2xl bg-slate-50 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
+                        <div className="p-8 rounded-2xl bg-gray-200 border border-slate-100 hover:shadow-xl hover:shadow-indigo-100/50 transition-all duration-300 group">
                             <div className="w-14 h-14 bg-emerald-100 rounded-xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform">
                                 💡
                             </div>
